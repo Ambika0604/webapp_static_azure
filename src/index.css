@@ -1,17 +1,18 @@
 :root {
   font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;
-  line-height: 1.5;
+  line-height: 1.4;
   font-weight: 400;
   color: #e2e8f0;
-  background-color: #0f172a;
+  background-color: #0b1120;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-body {
+html, body, #root {
   margin: 0;
-  min-width: 320px;
-  min-height: 100vh;
+  padding: 0;
+  height: 100vh;
+  overflow: hidden;
 }
