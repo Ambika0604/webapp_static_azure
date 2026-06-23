@@ -1,0 +1,329 @@
+SubCount,SeatsCount,Country,YM
+17,1,Chile,202302
+204,1,Chile,202304
+187,1,Chile,202307
+605,1,Colombia,202301
+670,1,Colombia,202303
+904,1,Colombia,202305
+857,1,Colombia,202306
+7,1,Colombia,202308
+12,1,Hungary,202302
+127,1,Hungary,202304
+129,1,Hungary,202307
+341,1,Ireland,202304
+433,1,Ireland,202306
+273,1,Israel,202304
+444,1,Israel,202306
+2,1,Israel,202308
+7,1,New Zealand,202302
+124,1,New Zealand,202303
+265,1,New Zealand,202305
+206,1,New Zealand,202307
+45,1,South Africa,202302
+658,1,South Africa,202303
+1297,1,South Africa,202305
+1353,1,South Africa,202307
+11,1,Sweden,202302
+91,1,Sweden,202303
+156,1,Sweden,202305
+162,1,Sweden,202307
+68,1,United States,202302
+67,1,United States,202304
+69,1,United States,202307
+41,2,Chile,202302
+180,2,Chile,202304
+223,2,Chile,202307
+569,2,Colombia,202301
+650,2,Colombia,202303
+859,2,Colombia,202305
+915,2,Colombia,202306
+5,2,Colombia,202308
+28,2,Hungary,202302
+111,2,Hungary,202304
+135,2,Hungary,202307
+332,2,Ireland,202304
+358,2,Ireland,202306
+2,2,Ireland,202308
+43,2,Israel,202304
+65,2,Israel,202306
+1,2,Israel,202308
+6,2,New Zealand,202302
+53,2,New Zealand,202303
+131,2,New Zealand,202305
+137,2,New Zealand,202307
+67,2,South Africa,202302
+290,2,South Africa,202303
+632,2,South Africa,202305
+729,2,South Africa,202307
+40,2,Sweden,202302
+108,2,Sweden,202303
+172,2,Sweden,202305
+181,2,Sweden,202307
+172,2,United States,202302
+164,2,United States,202304
+155,2,United States,202307
+56,3,Chile,202302
+316,3,Chile,202304
+391,3,Chile,202307
+789,3,Colombia,202301
+940,3,Colombia,202303
+1279,3,Colombia,202305
+1349,3,Colombia,202306
+6,3,Colombia,202308
+31,3,Hungary,202302
+210,3,Hungary,202304
+269,3,Hungary,202307
+449,3,Ireland,202304
+505,3,Ireland,202306
+46,3,Israel,202304
+68,3,Israel,202306
+1,3,Israel,202308
+13,3,New Zealand,202302
+64,3,New Zealand,202303
+166,3,New Zealand,202305
+218,3,New Zealand,202307
+59,3,South Africa,202302
+318,3,South Africa,202303
+643,3,South Africa,202305
+814,3,South Africa,202307
+58,3,Sweden,202302
+202,3,Sweden,202303
+320,3,Sweden,202305
+374,3,Sweden,202307
+180,3,United States,202302
+184,3,United States,202304
+190,3,United States,202307
+53,4,Chile,202302
+404,4,Chile,202304
+560,4,Chile,202307
+1111,4,Colombia,202301
+1376,4,Colombia,202303
+1914,4,Colombia,202305
+2077,4,Colombia,202306
+9,4,Colombia,202308
+43,4,Hungary,202302
+273,4,Hungary,202304
+405,4,Hungary,202307
+379,4,Ireland,202304
+417,4,Ireland,202306
+47,4,Israel,202304
+59,4,Israel,202306
+13,4,New Zealand,202302
+63,4,New Zealand,202303
+154,4,New Zealand,202305
+178,4,New Zealand,202307
+43,4,South Africa,202302
+227,4,South Africa,202303
+481,4,South Africa,202305
+663,4,South Africa,202307
+27,4,Sweden,202302
+113,4,Sweden,202303
+254,4,Sweden,202305
+289,4,Sweden,202307
+169,4,United States,202302
+182,4,United States,202304
+183,4,United States,202307
+77,5,Chile,202302
+725,5,Chile,202304
+1268,5,Chile,202307
+3034,5,Colombia,202301
+3982,5,Colombia,202303
+6202,5,Colombia,202305
+7447,5,Colombia,202306
+15,5,Colombia,202308
+48,5,Hungary,202302
+431,5,Hungary,202304
+706,5,Hungary,202307
+379,5,Ireland,202304
+436,5,Ireland,202306
+1,5,Ireland,202308
+133,5,Israel,202304
+68,5,Israel,202306
+7,5,New Zealand,202302
+35,5,New Zealand,202303
+113,5,New Zealand,202305
+165,5,New Zealand,202307
+14,5,South Africa,202302
+111,5,South Africa,202303
+348,5,South Africa,202305
+563,5,South Africa,202307
+28,5,Sweden,202302
+105,5,Sweden,202303
+197,5,Sweden,202305
+278,5,Sweden,202307
+86,5,United States,202302
+103,5,United States,202304
+127,5,United States,202307
+1,6,Chile,202307
+1,6,Colombia,202301
+5,6,Colombia,202303
+6,6,Colombia,202305
+5,6,Colombia,202306
+1,6,Hungary,202302
+1,6,Hungary,202304
+2,6,Hungary,202307
+1,6,United States,202307
+135,1,Chile,202303
+283,1,Chile,202305
+289,1,Chile,202306
+2,1,Chile,202308
+622,1,Colombia,202302
+698,1,Colombia,202304
+566,1,Colombia,202307
+94,1,Hungary,202303
+161,1,Hungary,202305
+158,1,Hungary,202306
+275,1,Ireland,202301
+295,1,Ireland,202302
+304,1,Ireland,202303
+379,1,Ireland,202305
+368,1,Ireland,202307
+8,1,Israel,202302
+158,1,Israel,202303
+358,1,Israel,202305
+357,1,Israel,202307
+215,1,New Zealand,202304
+284,1,New Zealand,202306
+1,1,New Zealand,202308
+1022,1,South Africa,202304
+1676,1,South Africa,202306
+9,1,South Africa,202308
+122,1,Sweden,202304
+186,1,Sweden,202306
+1,1,Sweden,202308
+65,1,United States,202301
+64,1,United States,202303
+71,1,United States,202305
+74,1,United States,202306
+115,2,Chile,202303
+213,2,Chile,202305
+249,2,Chile,202306
+1,2,Chile,202308
+584,2,Colombia,202302
+776,2,Colombia,202304
+764,2,Colombia,202307
+76,2,Hungary,202303
+149,2,Hungary,202305
+152,2,Hungary,202306
+246,2,Ireland,202301
+253,2,Ireland,202302
+285,2,Ireland,202303
+320,2,Ireland,202305
+340,2,Ireland,202307
+3,2,Israel,202302
+35,2,Israel,202303
+44,2,Israel,202305
+61,2,Israel,202307
+103,2,New Zealand,202304
+150,2,New Zealand,202306
+514,2,South Africa,202304
+777,2,South Africa,202306
+2,2,South Africa,202308
+148,2,Sweden,202304
+203,2,Sweden,202306
+170,2,United States,202301
+164,2,United States,202303
+161,2,United States,202305
+163,2,United States,202306
+194,3,Chile,202303
+354,3,Chile,202305
+409,3,Chile,202306
+1,3,Chile,202308
+847,3,Colombia,202302
+1172,3,Colombia,202304
+1214,3,Colombia,202307
+145,3,Hungary,202303
+240,3,Hungary,202305
+292,3,Hungary,202306
+348,3,Ireland,202301
+393,3,Ireland,202302
+428,3,Ireland,202303
+470,3,Ireland,202305
+478,3,Ireland,202307
+3,3,Israel,202302
+29,3,Israel,202303
+67,3,Israel,202305
+69,3,Israel,202307
+136,3,New Zealand,202304
+218,3,New Zealand,202306
+3,3,New Zealand,202308
+524,3,South Africa,202304
+856,3,South Africa,202306
+1,3,South Africa,202308
+283,3,Sweden,202304
+367,3,Sweden,202306
+170,3,United States,202301
+186,3,United States,202303
+189,3,United States,202305
+180,3,United States,202306
+248,4,Chile,202303
+488,4,Chile,202305
+581,4,Chile,202306
+1229,4,Colombia,202302
+1754,4,Colombia,202304
+1912,4,Colombia,202307
+187,4,Hungary,202303
+364,4,Hungary,202305
+405,4,Hungary,202306
+280,4,Ireland,202301
+306,4,Ireland,202302
+345,4,Ireland,202303
+407,4,Ireland,202305
+425,4,Ireland,202307
+2,4,Israel,202302
+25,4,Israel,202303
+48,4,Israel,202305
+62,4,Israel,202307
+113,4,New Zealand,202304
+173,4,New Zealand,202306
+386,4,South Africa,202304
+648,4,South Africa,202306
+1,4,South Africa,202308
+202,4,Sweden,202304
+287,4,Sweden,202306
+1,4,Sweden,202308
+155,4,United States,202301
+169,4,United States,202303
+179,4,United States,202305
+189,4,United States,202306
+434,5,Chile,202303
+930,5,Chile,202305
+1203,5,Chile,202306
+4,5,Chile,202308
+3466,5,Colombia,202302
+5373,5,Colombia,202304
+7042,5,Colombia,202307
+222,5,Hungary,202303
+541,5,Hungary,202305
+679,5,Hungary,202306
+231,5,Ireland,202301
+270,5,Ireland,202302
+319,5,Ireland,202303
+406,5,Ireland,202305
+443,5,Ireland,202307
+2,5,Israel,202302
+72,5,Israel,202303
+75,5,Israel,202305
+58,5,Israel,202307
+87,5,New Zealand,202304
+156,5,New Zealand,202306
+251,5,South Africa,202304
+489,5,South Africa,202306
+3,5,South Africa,202308
+171,5,Sweden,202304
+251,5,Sweden,202306
+77,5,United States,202301
+97,5,United States,202303
+113,5,United States,202305
+120,5,United States,202306
+1,6,Chile,202306
+2,6,Colombia,202302
+5,6,Colombia,202304
+5,6,Colombia,202307
+1,6,Hungary,202303
+1,6,Hungary,202305
+2,6,Hungary,202306
+1,6,United States,202301
+1,6,United States,202305
+1,6,United States,202306
+
